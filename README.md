@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dinesh Buswala
 - 👀 I’m interested in Computer Architecture, HPC, ML, DL and Speech Processing
-- 🌱 I’m currently learning DL and Speech processing
+- 🌱 I’m currently learning and working on DL for Speech processing
 - 💞️ I’m looking to collaborate on Speech Processing 
 - 📫 How to reach me dineshbuswala29nov@gmail.com/+91-9711606789
 
